@@ -3,7 +3,7 @@
 #include<stdlib.h>
 #include<softPwm.h>
 
-/*Using DC motor*/
+/*Using DC motor rotation*/
 #define foreward 29	//wpi 29 pin, GPIO 21
 #define backward 28 //wpi 28 pin, GPIO 20
 
